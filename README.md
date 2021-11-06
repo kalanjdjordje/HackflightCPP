@@ -4,7 +4,7 @@
 
 <h2>Note: I am no longer maintaining this repository, having switched
 to Haskell for the
-<a href="https://github.com/simondlevy/HackflightCPP">Hackflight</a> project.</h2>
+<a href="https://github.com/simondlevy/Hackflight">Hackflight</a> project.</h2>
 </h2>
 
 ## Intro
