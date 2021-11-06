@@ -2,6 +2,11 @@
 <img src="extras/media/logo.png" width=450>
 </p>
 
+<h2>Note: I am no longer maintaining this repository, having switched
+to Haskell for the
+<a href="https://github.com/simondlevy/HackflightCPP">Hackflight</a> project.</h2>
+</h2>
+
 ## Intro
 
 Hackflight is a simple, platform-independent, header-only C++ toolkit for
